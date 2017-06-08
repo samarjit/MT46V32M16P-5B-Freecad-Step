@@ -8,8 +8,11 @@ Tested with Kicad footprint form opendous
 
 After Step integration on PCB.
 
-![Step File in KiCAD](StepFileImageOnPCB.png)
-
+### Footprint Image
 ![Footprint Image](FootprintWithoutModel.png)
 
+### Step File in KiCAD
+![Step File in KiCAD](StepFileImageOnPCB.png)
+
+### Rendered Image in Kicad
 ![Rendered Image in Kicad](RenderedImage.png)
