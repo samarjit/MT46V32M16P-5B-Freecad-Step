@@ -16,3 +16,8 @@ After Step integration on PCB.
 
 ### Rendered Image in Kicad
 ![Rendered Image in Kicad](RenderedImage.png)
+
+This is my first CAD model. 
+
+## MIT License
+Feel free to fork and contribute
